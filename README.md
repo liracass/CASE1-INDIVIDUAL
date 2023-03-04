@@ -1,4 +1,4 @@
-<h1 align="center"> CASE2 👨‍💻</h1>
+<h1 align="center"> CASE 1 👨‍💻</h1>
 
 ## 📌 SOBRE O PROJETO
 Projeto final individual do resilia. 
